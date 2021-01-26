@@ -1,4 +1,4 @@
-package github.com/tislib/go-commons
+package go_commons
 
 import "fmt"
 
